@@ -1,6 +1,5 @@
 ﻿namespace Maui.SearchHandler.BackgroundColor
 {
-    using ObjCRuntime;
     using UIKit;
 
     public class Program
